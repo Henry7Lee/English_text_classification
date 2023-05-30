@@ -12,7 +12,8 @@ kdnuggets-fake-news：(2分类)
 
 https://github.com/lutzhamel/fake-news/tree/master
 
-**或者使用自己的数据集，详情见文件和参考资料**
+
+*或者使用自己的数据集，详情见文件和参考资料*
 
 ## 预训练词向量
 glove： https://nlp.stanford.edu/projects/glove/

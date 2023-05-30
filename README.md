@@ -18,7 +18,7 @@ https://github.com/lutzhamel/fake-news/tree/master
 ## 预训练词向量
 glove： https://nlp.stanford.edu/projects/glove/
 
-fasttext: https://fasttext.cc/
+fasttext： https://fasttext.cc/
 
 
 ## 实验结果

@@ -1,0 +1,2 @@
+glove
+网址：https://nlp.stanford.edu/projects/glove/

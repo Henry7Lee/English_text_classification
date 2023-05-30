@@ -1,0 +1,2 @@
+fasttext
+网址：https://fasttext.cc/

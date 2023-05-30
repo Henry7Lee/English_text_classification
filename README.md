@@ -9,7 +9,19 @@ bert, ERNIE, bert_CNN, bert_DPCNN, bert_RCNN, bert_RNN
 
 ## 数据集
 kdnuggets-fake-news：(2分类)
+
 https://github.com/lutzhamel/fake-news/tree/master
+
+
+## 词向量
+glove：
+
+https://nlp.stanford.edu/projects/glove/
+
+fasttext:
+ 
+https://fasttext.cc/
+
 
 ## 实验结果
 |  模型   | 准确率  | 词向量  |
